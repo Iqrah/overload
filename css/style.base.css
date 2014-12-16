@@ -1,0 +1,13 @@
+@import url('style.reset.css');
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+
+/*global*/
+body{font-family: Open Sans;background: #e3e3e3;}
+h1{font-size: 42px; line-height: 1.1; color: rgb(238, 238, 238);text-shadow: 1px 1px 5px rgb(39, 39, 39);}
+canvas{outline: 0; border: 1px solid #FFCACA; margin-left: auto; margin-right: auto;box-shadow: 1px 1px 17px #FFC5C5;}
+
+/*header*/
+.header{height: 45px; background: rgb(197, 94, 94); border-bottom: 3px solid #C35E5E;}
+
+/*canvasGame*/
+.canvasGame{margin: 50px auto; width: 800px;}
